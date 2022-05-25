@@ -11,3 +11,16 @@ Run the program and you'll have a window with several tabs where you can change 
 You can then load saved settings from File -> Load Visual Settings
 
 While you don't need to keep the program running after once you've applied your settings, without the program running it won't be able to reapply the settings in case the game recreates the uberPools for the modified objects. The best course is to minize the application once you've applied your changes. The program minimizes to the tray.
+
+# Features
+- Change texture of Ori
+- Add "hat" to Ori by loading a texture above the hat visuals
+- Color changes
+  - Ori's glow
+  - Sein's colors
+  - Torch colors and effect colors
+  - Glide & Feather colors
+  - Bow colors and effect colors
+  - Sword colors and effect colors
+  - Grenade colors and effect colors
+  - Hammer colors and effect colors
