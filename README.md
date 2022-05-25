@@ -2,6 +2,11 @@
 
 A tool that allows you to customize colors and textures for the game Wotw
 
+# Supported Versions
+- Patch 2
+- Patch 3
+- Patch 3.1
+
 # Installation
 Download and extract the folder anywhere you'd like, run the application.
 
