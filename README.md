@@ -8,7 +8,7 @@ A tool that allows you to customize colors and textures for the game Wotw
 - Patch 3.1
 
 # Installation
-Download and extract the folder anywhere you'd like, run the application.
+Download and extract the folder anywhere you'd like, run the application. There's nothing extra needed to do for different patches, the program will inject the correct dll depending on the patch version on it's own.
 
 # How to use
 Run the program and you'll have a window with several tabs where you can change textures & colors. Double click on a color to open a color picker to change the color you want. Once you have a setup you like set a "Setting Name" to what you want to name the it and then save the settings by clicking on the "Save Setting" and then click on "Apply Changes" to have the settings be applied in game.
